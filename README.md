@@ -1,2 +1,5 @@
-# dio_intro_git
-Projeto intrudutório ao git e github do curso TQI Fullstack Developer da DIO.
+# DIO | Introdução ao Git:
+Projeto intrudutório ao git e github do bootcamp TQI Fullstack Developer da DIO.
+
+*Objetivo: criação de diretório para controle de anotações do bootcamp.*  
+*Metodologia: uso de Git Bash.*
