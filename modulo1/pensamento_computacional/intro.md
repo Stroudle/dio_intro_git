@@ -1,10 +1,10 @@
-#Introdução
+# Introdução
 
--Expressão de soluções em passos computacionais;
+- Expressão de soluções em passos computacionais;
 
--Habilidades humanas e recursos computacionais;
+- Habilidades humanas e recursos computacionais;
 
--Pilares: Decomposição, Reconhecimento de Padrões, Abstração, Algoritmos;
+- Pilares: Decomposição, Reconhecimento de Padrões, Abstração, Algoritmos;
 
 
 
